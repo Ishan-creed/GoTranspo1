@@ -1,0 +1,31 @@
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-color: rgb(4, 4, 4);
+}
+
+.container1{
+    background-color:rgb(3, 3, 3);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-top: 25vh;    
+    padding: 50px;
+    border-radius:18px;
+    box-shadow: 6px 5px 5px rgb(95, 93, 93);
+    width: fit-content;
+    height: fit-content;
+    
+}
+
+label{
+    margin-bottom: 10px;
+}
+
+td{
+    margin-left: 10px;
+}
